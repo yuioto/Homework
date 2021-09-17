@@ -6,9 +6,11 @@
 
 * [2021.09.16](zuo-ye-dan/2021.09.16.md)
 * [2021.09.17](zuo-ye-dan/2021.09.17.md)
+* [2021.09.18](zuo-ye-dan/2021.09.18.md)
 
 ## 课堂记录
 
 * [Untitled](ke-tang-ji-lu/untitled.md)
 * [2021.09.17](ke-tang-ji-lu/2021.09.17.md)
+* [2021.09.18](ke-tang-ji-lu/2021.09.18.md)
 
