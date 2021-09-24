@@ -17,4 +17,5 @@
 * [2021.09.17](ke-tang-ji-lu/2021.09.17.md)
 * [2021.09.18](ke-tang-ji-lu/2021.09.18.md)
 * [2021.09.22](ke-tang-ji-lu/2021.09.22.md)
+* [咕咕咕～～～](ke-tang-ji-lu/gu-gu-gu.md)
 
