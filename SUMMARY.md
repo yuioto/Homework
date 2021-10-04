@@ -26,5 +26,5 @@
 
 ## 笔记
 
-* [政治](bi-ji/zheng-zhi.md)
+* [政治](bi-ji/zheng-zhi-1.md)
 
