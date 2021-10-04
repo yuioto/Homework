@@ -24,3 +24,7 @@
 * [2021.09.22](ke-tang-ji-lu/2021.09.22.md)
 * [咕咕咕～～～](ke-tang-ji-lu/gu-gu-gu.md)
 
+## 笔记
+
+* [政治](bi-ji/zheng-zhi.md)
+
